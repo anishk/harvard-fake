@@ -1,50 +1,62 @@
 {
     "posts": [
         {
+            "id"  : 1,
         "IS_S2_SES_VALUE" : "HBSD",
         "IS_S2_SES_TEXT" : "Business School Doctoral"
         },
         {
+            "id"  : 2,
         "IS_S2_SES_VALUE" : "HBSM",
         "IS_S2_SES_TEXT" : "Business School MBA"
         },
         {
+            "id"  : 3,
         "IS_S2_SES_VALUE" : "FAS",
         "IS_S2_SES_TEXT" : "Faculty of Arts & Sciences"
         },
         {
+            "id"  : 4,
         "IS_S2_SES_VALUE" : "GSD",
         "IS_S2_SES_TEXT" : "Graduate School of Design"
         },
         {
+            "id"  : 5,
         "IS_S2_SES_VALUE" : "HGSE",
         "IS_S2_SES_TEXT" : "Graduate School of Education"
         },
         {
+            "id"  : 6,
         "IS_S2_SES_VALUE" : "HSPH",
         "IS_S2_SES_TEXT" : "Harvard Chan School"
         },
         {
+            "id"  : 7,
         "IS_S2_SES_VALUE" : "HDS",
         "IS_S2_SES_TEXT" : "Harvard Divinity School"
         },
         {
+            "id"  : 8,
         "IS_S2_SES_VALUE" : "HKS",
         "IS_S2_SES_TEXT" : "Harvard Kennedy School"
         },
         {
+            "id"  : 9,
         "IS_S2_SES_VALUE" : "HLS",
         "IS_S2_SES_TEXT" : "Harvard Law School"
         },
         {
+            "id"  : 10,
         "IS_S2_SES_VALUE" : "HMS",
         "IS_S2_SES_TEXT" : "Harvard Medical School"
         },
         {
+            "id"  : 11,
         "IS_S2_SES_VALUE" : "NONH",
         "IS_S2_SES_TEXT" : "Non-Harvard"
         },
         {
+            "id"  : 12,
         "IS_S2_SES_VALUE" : "HSDM",
         "IS_S2_SES_TEXT" : "School of Dental Medicine"
         }
