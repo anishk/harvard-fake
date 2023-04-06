@@ -1,14 +1,5 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    },
-    "dropdown" : [
         {
         "IS_S2_SES_VALUE" : "HBSD",
         "IS_S2_SES_TEXT" : "Business School Doctoral"
@@ -58,4 +49,9 @@
         "IS_S2_SES_TEXT" : "School of Dental Medicine"
         }
         ]
+      ,
+    "profile": {
+      "name": "typicode"
+    }
+    
   }
